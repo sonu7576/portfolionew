@@ -242,16 +242,14 @@ text-align: center;
   width: 90%;
 }
 .bar .progress-line.css span{
-  width: 60%;
+  width: 88%;
 }
-.bar .progress-line.jquery span{
-  width: 85%;
-}
+
 .bar .progress-line.python span{
-  width: 50%;
+  width: 45%;
 }
 .bar .progress-line.mysql span{
-  width: 75%;
+  width: 50%;
 }
 .progress-line span::before{
   position: absolute;
@@ -289,14 +287,12 @@ text-align: center;
   content: "90%";
 }
 .progress-line.css span::after{
-  content: "60%";
+  content: "88%";
 }
-.progress-line.jquery span::after{
-  content: "85%";
-}
+
 .progress-line.python span::after{
-  content: "50%";
+  content: "45%";
 }
 .progress-line.mysql span::after{
-  content: "75%";
+  content: "50%";
 }
