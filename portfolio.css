@@ -337,7 +337,7 @@ footer {
       transform: rotate(288deg);
     }
   }
-  @media(max-width: 600px){
+  @media(max-width:600px){
     footer {
       color: #ffffff;
       margin-top: 2rem;
@@ -360,7 +360,7 @@ footer {
       margin-top: 34%;
     }
     #contact{
-      margin-top: 30%;
+      margin-top: 500px;
     }
 
     
@@ -398,6 +398,9 @@ footer {
     }
     #contact{
       margin-top: 100px;
+    }
+    footer{
+      font-size: x-small
     }
 
 
